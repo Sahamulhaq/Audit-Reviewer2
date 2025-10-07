@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+python-docx
+pdf2image
+pytesseract
+pandas
+sentence-transformers
+torch          # required by sentence-transformers
+transformers   # often needed for sentence-transformers models
+Pillow         # used by pdf2image and image handling
