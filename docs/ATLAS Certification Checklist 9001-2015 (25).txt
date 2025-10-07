@@ -1,0 +1,80 @@
+
+
+
+
+
+
+QMS Checklist
+Preparing your Quality Management System for ISO9001 certification
+
+
+
+
+
+
+
+Clause 4 Context of the organisation	Yes/No	Evidence & Comments
+Have you identified internal & external issues that will impact on your Quality Management System (QMS), including Climate Change?		
+Have you identified interested parties & which stakeholder requirements will be addressed through the QMS, including requirements relating to Climate Change?		
+Have you determined and documented the scope and boundaries of the QMS?		
+Have you identified and justified exclusions from the scope of the QMS?		
+Clause 5 Leadership	Yes/No	Evidence & Comments
+Can your organisation demonstrate that top management is providing leadership and commitment to the QMS?		
+Have you established and documented a Quality Policy?		
+Has management assigned roles and responsibilities for the QMS’s implementation, operation, performance reporting?		
+Clause 6 Planning	Yes/No	Evidence & Comments
+Have you established a plan to address identified risks and opportunities related to the QMS?		
+Have you established a documented risk assessment process that considers internal and external issues and the needs and expectations of interested parties relevant to the organisation?		
+Have you established and documented measurable quality objectives?		
+Have you established plans to monitor, measure, communicate and achieve objectives and determined processes for maintaining related records?		
+Have you established processes to ensure changes to the QMS are carried out in a planned manner?		
+Clause 7 Support 	Yes/No	Evidence & Comments
+Have you determined the resources needed to establish, implement, continuously improve and maintain the QMS?		
+Have you determined and documented the competencies required by personnel to undertake their roles and responsibilities in compliance with the QMS?		
+Do you retain documented records of education, training experience, competence and qualification?		
+Is QMS documentation protected from loss of confidentiality, loss of integrity and improper use?		
+Clause 8 Operation 	Yes/No	Evidence & Comments
+Have you established operating procedures, including criteria and implementation of process controls in accordance with criteria, as needed to ensure customer requirements are met?		
+Have you established change management procedures and processes for reviewing the consequences of unintended change?		
+Have you determined any/all outsourced processes and established related controls for external providers (suppliers/subconsultants/subcontractors) of products and services?		
+Have you determined the documented information to be retained to the extent necessary to have confidence that the processes have been carried out as planned?		
+Clause 9 Performance Evaluation 	Yes/No	Evidence & Comments
+Have you established processes and methods for monitoring, measuring, analysing and evaluating QMS performance and effectiveness i.e., what, when, how, and by whom?		
+Have you determined how evidence will be preserved?		
+Clause 9.2 Internal Audit	Yes/No	Evidence & Comments
+Have you established a documented audit programme that defines timing, responsibilities, reporting, audit criteria and scope?		
+Have you established a process to ensure results and evidence of implementation of the internal audit program/process are documented and available?		
+Have you conducted internal audits to ensure that the organisation audits its own quality requirements and the requirements of the Standard?		
+Clause 9.3 Management Review	Yes/No	Evidence & Comments
+Do you conduct and document regular management reviews of the QMS?		
+Clause 10 Nonconformity & Continuous Improvement 	Yes/No	Evidence & Comments
+Do you record all nonconformities, including initial correction, root cause and corrective actions?		
+Do you continually improve the effectiveness of QMS using quality policy, audit results, analysis of events, corrective actions and management review?		
+
+
+
+Mandatory QMS Documented Information 	Yes/No	Evidence & Comments
+Do you maintain the following mandatory documentation?
+Documented scope of the QMS (4.3)		
+Documented information to support operation of processes (4.4)		
+Quality Policy (5.2)		
+Organisational roles and responsibilities (5.3)		
+QMS Objectives, targets and plans to achieve them (6.2)		
+Competency evidence (7.2)		
+Operating Procedures (8.1)		
+Review of the Requirements for Products and Services (8.2.3)		
+Design and Development requirements (8.3.2)		
+Design and Development Inputs (8.3.3)		
+Design and Development Controls (8.3.4)		
+Design and Development Outputs (8.3.5)		
+Design and Development Changes (8.3.6)		
+Criteria For Evaluation, Selection, Monitoring of Performance, and Re-Evaluation of External Providers and Actions Arising From Evaluations (8.4.1)		
+Identification and Traceability (8.5.2)		
+Control of Changes for Product/Service Provision (8.5.6)		
+Release of Products/Services (8.6)		
+Control of Nonconforming Output (Products/Services) (8.7.2)		
+Evaluation, Measurement, Analysis and Evaluation Results (9.1) i.e., QMS Performance Including Trends and Performance against Objectives.		
+Internal audit (9.2) i.e., Schedule, Internal Audit Reports		
+Management Review (9.3) i.e., Agenda and Minutes		
+Records relating to Nonconformity and Corrective Action (10.2)		
+##End of Checklist##
