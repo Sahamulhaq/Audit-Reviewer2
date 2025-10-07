@@ -1,0 +1,188 @@
+[
+  {
+    "clause": "4",
+    "requirement": "Have you identified internal & external issues that will impact on your Occupational Health & Safety Management System (OH&SMS), including Climate Change?",
+    "category": "Context of the organisation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "4",
+    "requirement": "Have you identified interested parties & which stakeholder requirements will be addressed through the OH&SMS, including requirements relating to Climate Change?",
+    "category": "Context of the organisation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "4",
+    "requirement": "Have you determined and documented the scope and boundaries of the OH&SMS?",
+    "category": "Context of the organisation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Can your organisation demonstrate that top management is providing leadership and commitment to the OH&SMS?",
+    "category": "Leadership",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Have you established and documented an Occupational Health & Safety Policy?",
+    "category": "Leadership",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Has management assigned roles and responsibilities for the OH&SMS’s implementation, operation, performance reporting?",
+    "category": "Leadership",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Has the organisation established a process for consultation and participation of workers at all functions in the development of the OH&SMS?",
+    "category": "Leadership",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established a plan to address identified risks and opportunities related to the OH&SMS?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established a documented risk assessment process that considers internal and external issues and the needs and expectations of interested parties relevant to the organisation?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established a process for the identification of hazards, OH&S risks and risks to the OH&SMS?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established a process for determining its applicable and relevant legal and other requirements?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established and documented measurable OH&S objectives?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established plans to monitor, measure, communicate and achieve objectives and determined processes for maintaining related records?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established processes to ensure changes to the OH&SMS are carried out in a planned manner?",
+    "category": "Planning",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "7",
+    "requirement": "Have you determined the resources needed to establish, implement, continuously improve and maintain the OH&SMS?",
+    "category": "Support",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "7",
+    "requirement": "Have you determined and documented the competencies required by personnel to undertake their roles and responsibilities in compliance with the OH&SMS?",
+    "category": "Support",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "7",
+    "requirement": "Do you retain documented records of competence (education, training experience, qualification)?",
+    "category": "Support",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established operating procedures, including criteria and implementation of process controls in accordance with criteria, as needed to ensure stakeholder requirements are met?",
+    "category": "Operation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established a process for the elimination of hazards and reduction of operational level risk?",
+    "category": "Operation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established change management procedures and processes for reviewing the consequences of unintended change?",
+    "category": "Operation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established a process for the management of contractor compliance to the organisation’s requirements?",
+    "category": "Operation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established process(es) for emergency response and preparedness, established emergency scenarios and tested their effectiveness?",
+    "category": "Operation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9",
+    "requirement": "Have you established processes and methods for monitoring, measuring, analysing and evaluating OH&SMS performance and effectiveness i.e., what, when, how, and by whom?",
+    "category": "Performance Evaluation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9",
+    "requirement": "Have you determined how evidence will be preserved?",
+    "category": "Performance Evaluation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9",
+    "requirement": "Have you evaluated its compliance with its compliance obligations?",
+    "category": "Performance Evaluation",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you established a documented audit programme that defines timing, responsibilities, reporting, audit criteria and scope?",
+    "category": "Internal Audit",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you established a process to ensure results and evidence of implementation of the internal audit program/process are documented and available?",
+    "category": "Internal Audit",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you conducted internal audits to ensure that the organisation audits its own Environmental requirements and the requirements of the Standard?",
+    "category": "Internal Audit",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "9.3",
+    "requirement": "Do you conduct and document regular management reviews of the EMS?",
+    "category": "Management Review",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "10",
+    "requirement": "Do you have a process for recording and managing incidents and nonconformities, including initial correction, root cause and corrective actions?",
+    "category": "Nonconformity & Continuous Improvement",
+    "system": "OHSMS"
+  },
+  {
+    "clause": "10",
+    "requirement": "Do you maintain the following mandatory documentation?",
+    "category": "Nonconformity & Continuous Improvement",
+    "system": "OHSMS"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "clause": "4.3",
+    "requirement": "Have you determined the Scope of your Management System and retained this as Documented Information?",
+    "category": "Scope of the Management System",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Is this Policy retained as Documented Information?",
+    "category": "Policy",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Does the Quality Policy include a commitment to satisfy applicable requirements?",
+    "category": "Policy",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Does the Environmental Policy provide a framework for setting objectives?",
+    "category": "Have you established an Environmental Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Does the Environmental Policy include a commitment to fulfil relevant compliance obligations?",
+    "category": "Have you established an Environmental Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Does the Safety Policy provide a framework for setting objectives?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Does the Safety Policy include a commitment to eliminate hazards and reduce risks?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Does the Safety Policy include a commitment to consultation and participation of workers?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Have you retained Documented Information on identified Risks and Opportunities?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Have you established and implemented criteria to determine the aspects that have or can have a significant environmental impact (i.e., significant Aspects)?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Do you have examples of SWMS, JSA’s that are used by your organisation (if applicable)?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "5.2",
+    "requirement": "Have you identified relevant Compliance Obligations (incl. Acts, Regulations, Codes of Practice, Australian Standards, etc.) for the jurisdictions in which your organisation operates?",
+    "category": "Have you established a Safety (OHS/WHS) Policy?",
+    "system": "Stage1"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you developed an Internal Audit programme to demonstrate it has been determined what, when and how Internal Audits will be conducted to verify: \nthe Management System’s conformity with the requirements of the relevant Standards;\nthe effective implementation of the Management System?",
+    "category": "Internal Audits",
+    "system": "Stage1"
+  },
+  {
+    "clause": "9.3",
+    "requirement": "Has at least one Management Review, taking into consideration the required inputs and generating the required outputs been conducted?*\n\n*please note it is a requirement that at least one full Management Review has been conducted before progressing to the Stage 2 Audit can be recommended.",
+    "category": "Management Review",
+    "system": "Stage1"
+  },
+  {
+    "clause": "10.2",
+    "requirement": "Have you developed and implemented a process to ensure Corrective Action is taken to prevent recurrence of similar Non-Conformities, incl.:\nevaluation of the need for Corrective Action by determining the root cause and likelihood of recurrence;\nreview of existing Risk Assessments;\nconsideration of the Hierarchy of Controls; and\nreview of effectiveness of the Corrective Action taken?",
+    "category": "Non-Conformities and Corrective Actions",
+    "system": "Stage1"
+  }
+]

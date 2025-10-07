@@ -1,0 +1,170 @@
+[
+  {
+    "clause": "4",
+    "requirement": "Have you identified internal & external issues that will impact on your Quality Management System (QMS), including Climate Change?",
+    "category": "Context of the organisation",
+    "system": "QMS"
+  },
+  {
+    "clause": "4",
+    "requirement": "Have you identified interested parties & which stakeholder requirements will be addressed through the QMS, including requirements relating to Climate Change?",
+    "category": "Context of the organisation",
+    "system": "QMS"
+  },
+  {
+    "clause": "4",
+    "requirement": "Have you determined and documented the scope and boundaries of the QMS?",
+    "category": "Context of the organisation",
+    "system": "QMS"
+  },
+  {
+    "clause": "4",
+    "requirement": "Have you identified and justified exclusions from the scope of the QMS?",
+    "category": "Context of the organisation",
+    "system": "QMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Can your organisation demonstrate that top management is providing leadership and commitment to the QMS?",
+    "category": "Leadership",
+    "system": "QMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Have you established and documented a Quality Policy?",
+    "category": "Leadership",
+    "system": "QMS"
+  },
+  {
+    "clause": "5",
+    "requirement": "Has management assigned roles and responsibilities for the QMS’s implementation, operation, performance reporting?",
+    "category": "Leadership",
+    "system": "QMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established a plan to address identified risks and opportunities related to the QMS?",
+    "category": "Planning",
+    "system": "QMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established a documented risk assessment process that considers internal and external issues and the needs and expectations of interested parties relevant to the organisation?",
+    "category": "Planning",
+    "system": "QMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established and documented measurable quality objectives?",
+    "category": "Planning",
+    "system": "QMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established plans to monitor, measure, communicate and achieve objectives and determined processes for maintaining related records?",
+    "category": "Planning",
+    "system": "QMS"
+  },
+  {
+    "clause": "6",
+    "requirement": "Have you established processes to ensure changes to the QMS are carried out in a planned manner?",
+    "category": "Planning",
+    "system": "QMS"
+  },
+  {
+    "clause": "7",
+    "requirement": "Have you determined the resources needed to establish, implement, continuously improve and maintain the QMS?",
+    "category": "Support",
+    "system": "QMS"
+  },
+  {
+    "clause": "7",
+    "requirement": "Have you determined and documented the competencies required by personnel to undertake their roles and responsibilities in compliance with the QMS?",
+    "category": "Support",
+    "system": "QMS"
+  },
+  {
+    "clause": "7",
+    "requirement": "Do you retain documented records of education, training experience, competence and qualification?",
+    "category": "Support",
+    "system": "QMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established operating procedures, including criteria and implementation of process controls in accordance with criteria, as needed to ensure customer requirements are met?",
+    "category": "Operation",
+    "system": "QMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you established change management procedures and processes for reviewing the consequences of unintended change?",
+    "category": "Operation",
+    "system": "QMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you determined any/all outsourced processes and established related controls for external providers (suppliers/subconsultants/subcontractors) of products and services?",
+    "category": "Operation",
+    "system": "QMS"
+  },
+  {
+    "clause": "8",
+    "requirement": "Have you determined the documented information to be retained to the extent necessary to have confidence that the processes have been carried out as planned?",
+    "category": "Operation",
+    "system": "QMS"
+  },
+  {
+    "clause": "9",
+    "requirement": "Have you established processes and methods for monitoring, measuring, analysing and evaluating QMS performance and effectiveness i.e., what, when, how, and by whom?",
+    "category": "Performance Evaluation",
+    "system": "QMS"
+  },
+  {
+    "clause": "9",
+    "requirement": "Have you determined how evidence will be preserved?",
+    "category": "Performance Evaluation",
+    "system": "QMS"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you established a documented audit programme that defines timing, responsibilities, reporting, audit criteria and scope?",
+    "category": "Internal Audit",
+    "system": "QMS"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you established a process to ensure results and evidence of implementation of the internal audit program/process are documented and available?",
+    "category": "Internal Audit",
+    "system": "QMS"
+  },
+  {
+    "clause": "9.2",
+    "requirement": "Have you conducted internal audits to ensure that the organisation audits its own quality requirements and the requirements of the Standard?",
+    "category": "Internal Audit",
+    "system": "QMS"
+  },
+  {
+    "clause": "9.3",
+    "requirement": "Do you conduct and document regular management reviews of the QMS?",
+    "category": "Management Review",
+    "system": "QMS"
+  },
+  {
+    "clause": "10",
+    "requirement": "Do you record all nonconformities, including initial correction, root cause and corrective actions?",
+    "category": "Nonconformity & Continuous Improvement",
+    "system": "QMS"
+  },
+  {
+    "clause": "10",
+    "requirement": "Do you continually improve the effectiveness of QMS using quality policy, audit results, analysis of events, corrective actions and management review?",
+    "category": "Nonconformity & Continuous Improvement",
+    "system": "QMS"
+  },
+  {
+    "clause": "10",
+    "requirement": "Do you maintain the following mandatory documentation?",
+    "category": "Nonconformity & Continuous Improvement",
+    "system": "QMS"
+  }
+]
